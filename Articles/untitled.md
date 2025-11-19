@@ -1,7 +1,7 @@
 ---
 titre: "Sans titre"
 auteur: "inconnu"
-date: "2025-11-18T23:33:49.058Z"
+date: "2025-11-19T01:16:51.783Z"
 score: 0
 categories: []
 technologies: []
